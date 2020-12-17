@@ -1,3 +1,11 @@
-.fullscreen h1.title { margin-bottom: 0; letter-spacing: 2px; }
-.undertitle { font-style: italic; }
-.box-container p { font-size: 18px; margin-bottom: .2em; }
+.fullscreen h1.title {
+        margin-bottom: 0;
+        letter-spacing: 2px;
+}
+.undertitle {
+        font-style: italic;
+}
+.box-container p {
+        font-size: 18px;
+        margin-bottom: 0.2em;
+}
